@@ -1,7 +1,7 @@
 social-media-backend_v4/node_modules/
 social-media-backend_v4/src/config/.env
 social-media-backend_v4/uploads/
-social-media-backend_v4/pnpm-lock.yaml
+social-media-backend-v4/bun.lock
 social-media-backend_v4/public/
 social-media-backend_v4/.DS_Store
 social-media-backend_v4/src/queries
