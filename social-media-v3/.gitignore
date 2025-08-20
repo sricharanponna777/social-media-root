@@ -48,3 +48,5 @@ yarn-error.*
 *.tsbuildinfo
 
 # @end expo-cli
+
+bun.lock
